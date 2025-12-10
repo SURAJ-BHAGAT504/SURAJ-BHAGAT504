@@ -6,13 +6,13 @@
 
 ## 🚀 Fullstack .NET Developer
 
-I'A **Fullstack .NET Developer** with 1+ years of experience building scalable, high-performance, and secure enterprise software for media, logistics, and travel platforms. I specialize in the Microsoft ecosystem, focused on robust API development and efficient system architecture.
+I'm a **Results-driven Fullstack Developer** with over a year of specialized experience in the **.NET ecosystem**. I focus on designing, developing, and deploying scalable, high-performance, and secure enterprise software for various platforms. I leverage AI-assisted tools daily to enhance productivity and code quality.
 
 ### 💡 Quick Overview
 * **Current Role:** Software Developer at **ABCPL (TV9 Bharatvarsh)** 📺
-* **Expertise:** **.NET Core (6+), Web API, Blazor, Microservices, CI/CD**
-* **Focus Areas:** Real-time systems (news, election data), API security (JWT), and cloud-native architecture.
-* **Daily Driver:** Using **AI tools (Gemini, Copilot)** to optimize code and boost development velocity.
+* **Expertise:** **.NET Core (6+), Web API, Blazor**, Microservices, CI/CD.
+* **Experience:** 1+ year.
+* **Focus Areas:** API security (JWT), database optimization (PostgreSQL/MS SQL), and real-time systems (news, logistics).
 
 ---
 
@@ -20,11 +20,11 @@ I'A **Fullstack .NET Developer** with 1+ years of experience building scalable, 
 
 | Category | Key Technologies |
 | :--- | :--- |
-| **Backend & Frameworks** | **C#**, **ASP.NET Core (6+), .NET Web API**, Blazor, .NET MAUI |
-| **Frontend & UI** | JavaScript, TypeScript, HTML, CSS, Bootstrap |
-| **Databases & ORM** | **PostgreSQL**, MS SQL Server, EF Core |
+| **Backend & Frameworks** | **C#**, **ASP.NET Core (6+), .NET Web API**, Blazor, Bootstrap |
+| **Frontend & UI** | JavaScript, TypeScript, HTML, CSS |
+| **Databases & ORM** | **PostgreSQL**, MS SQL Server |
 | **DevOps & Tools** | **Git**, Docker, **Azure DevOps (CI/CD)**, Swagger, Postman |
-| **Architecture** | **Microservices**, REST APIs, MVC, Dependency Injection, JWT Auth, Async/Await |
+| **Architecture** | **Microservices**, REST APIs, MVC, Dependency Injection, JWT Auth, Agile/Scrum |
 
 ---
 
@@ -33,24 +33,25 @@ I'A **Fullstack .NET Developer** with 1+ years of experience building scalable, 
 ### 🧑‍💻 **Software Developer — ABCPL (TV9 Bharatvarsh)**
 **July 2025 – Present**
 
-* **News Workflow Information System (NWIS):**
-    * Designed and built the secure, scalable backend using **.NET Web API**.
-    * Implemented **real-time content delivery** mechanisms for a high-traffic Flutter application.
-* **Election Data Management System:**
-    * Developed a robust full-stack platform for **national and regional election data**.
-    * Optimized backend and database workflows to ensure **data integrity and high availability** during peak election periods.
+* **News Workflow Information System (NWIS):** Developed a high-availability backend system using **.NET Web API** to manage news content, editorial workflows, and user access for a major media outlet.
+* **Election Data Management System:** Developed a full-stack platform for **national and regional election data** and optimized backend workflows for high-traffic, ensuring data integrity during peak election periods.
 
 ### 🧑‍💻 **Software Developer — Nimbusflow Pvt. Ltd.**
 **May 2024 – April 2025**
 
-* **Georgian Freight Lines (TMS):** Contributed to a Transportation Management System using **.NET Core + Blazor WebAssembly**, focusing on shipment tracking and load optimization.
-* **Cruze Together (Travel App):** Developed **scalable REST APIs** and implemented **AWS SQS** for asynchronous notification processing.
+* **Georgian Freight Lines (TMS):** Contributed to the full-stack development of a Transportation Management System using **.NET Core** and **Blazor WebAssembly**. Designed features for real-time shipment tracking and load management.
+* **Cruze Together (Hybrid Travel App):** Developed scalable REST APIs using .NET Core and integrated **AWS SQS** for asynchronous notifications.
 
 ---
 
+## 🎓 Education
+
+* **Bachelor of Engineering, Computer Science** – SEA College of Engineering & Technology, Bangalore (2020 – 2024)
+* **Secondary & Higher Secondary Education** – Jawahar Navodaya Vidyalaya (2017 – 2020)
+
 ## 📊 GitHub Activity & Stats
 
-> **Note:** The public `github-readme-stats` service sometimes fails due to API rate limits. If the images below are blank, please check back later or consider the permanent fix (deploying a self-hosted instance).
+> **Note:** The public `github-readme-stats` service sometimes fails due to API rate limits. If the stats card is blank, this is an external server issue.
 
 <p align="center">
     <img height="180em" src="https://github-stat-fetcher.vercel.app/api?username=SURAJ-BHAGAT504&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Suraj's GitHub Stats"/>
