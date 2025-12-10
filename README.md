@@ -67,12 +67,12 @@
 
 ## 📊 GitHub Activity & Stats
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/SURAJ-BHAGAT504">
     <img src="https://github-readme-stats.vercel.app/api?username=SURAJ-BHAGAT504&show_icons=true&theme=radical&hide_border=true&bg_color=181818" alt="Suraj's Stats" height="180" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURAJ-BHAGAT504&layout=compact&theme=radical&hide_border=true&bg_color=181818" alt="Top Languages" height="180" />
   </a>
-</div>
+</div> -->
 
 <br>
 
