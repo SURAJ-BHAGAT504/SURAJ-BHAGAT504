@@ -1,9 +1,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=280&section=header&text=Suraj%20Bhagat&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20.NET%20Developer%20%7C%20Building%20Scalable%20Enterprise%20Software&descAlignY=55&descAlign=50" alt="Suraj Bhagat Header" />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=28&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Hi,+I'm+Suraj+Bhagat+👋;Fullstack+.NET+Developer+🚀;Flutter+%7C+Dart+%7C+.NET+%7C+Web+Developer;Building+Scalable+Solutions+💻" alt="Typing SVG" />
-  </a>
 </div>
 
 ---
