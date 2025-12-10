@@ -92,23 +92,23 @@ Secondary & Higher Secondary (2017 – 2020)
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=surajbhagat504&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajbhagat504&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SURAJ-BHAGAT504&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURAJ-BHAGAT504&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surajbhagat504&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SURAJ-BHAGAT504&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
 ## 🏆 Badges & Stats
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=surajbhagat504&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/surajbhagat504?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=SURAJ-BHAGAT504&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/SURAJ-BHAGAT504?style=for-the-badge" />
 </p>
 
 ---
