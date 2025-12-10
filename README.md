@@ -1,129 +1,84 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=30&duration=3000&pause=1000&color=007BFF&width=800&lines=Hi%2C+I'm+Suraj+Bhagat+👋;Fullstack+.NET+Developer;Flutter+%7C+Dart+%7C+.NET+%7C+Web+Developer;Building+Scalable+Enterprise+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=30&duration=3000&pause=1000&color=007BFF&width=800&lines=Hi%2C+I'm+Suraj+Bhagat+👋;Fullstack+.NET+Developer;Flutter+%7C+Dart+%7C+.NET+%7C+Web+Developer;Building+Scalable+Enterprise+Software" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Fullstack .NET Developer
 
-I'm a **Fullstack .NET Developer** with experience building scalable, high-performance software for media, logistics, and travel platforms.
+I'A **Fullstack .NET Developer** with 1+ years of experience building scalable, high-performance, and secure enterprise software for media, logistics, and travel platforms. I specialize in the Microsoft ecosystem, focused on robust API development and efficient system architecture.
 
-### 👨‍💻 Quick Summary
-- 💼 Software Developer at **ABCPL (TV9 Bharatvarsh)**  
-- 💡 1+ year of experience in **.NET Core, Web API, Blazor, CI/CD, Microservices**  
-- 📱 Built real-time systems for **news, election data, transportation & travel apps**  
-- ⚡ Strong in API development, database optimization, authentication, and cloud tools  
-- 🤖 Use **AI tools (ChatGPT, Copilot, Gemini)** daily to boost productivity  
-
-📩 **Email:** bhagatsuraj504@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/suraj-bhagat-a576b7247/
+### 💡 Quick Overview
+* **Current Role:** Software Developer at **ABCPL (TV9 Bharatvarsh)** 📺
+* **Expertise:** **.NET Core (6+), Web API, Blazor, Microservices, CI/CD**
+* **Focus Areas:** Real-time systems (news, election data), API security (JWT), and cloud-native architecture.
+* **Daily Driver:** Using **AI tools (Gemini, Copilot)** to optimize code and boost development velocity.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Technology Stack
 
-### **Languages**
-C#, JavaScript, TypeScript, SQL, HTML, CSS
-
-### **Frameworks**
-ASP.NET Core (6+), Blazor, .NET Web API, Bootstrap
-
-### **Databases**
-PostgreSQL, MS SQL Server
-
-### **DevOps / Tools**
-Git, Docker, CI/CD Pipelines, Azure DevOps (Boards, Repos), Swagger, Postman
-
-### ** Concepts**
-Microservices · REST APIs · MVC · Dependency Injection · JWT Auth · Async/Await · Agile/Scrum
+| Category | Key Technologies |
+| :--- | :--- |
+| **Backend & Frameworks** | **C#**, **ASP.NET Core (6+), .NET Web API**, Blazor, .NET MAUI |
+| **Frontend & UI** | JavaScript, TypeScript, HTML, CSS, Bootstrap |
+| **Databases & ORM** | **PostgreSQL**, MS SQL Server, EF Core |
+| **DevOps & Tools** | **Git**, Docker, **Azure DevOps (CI/CD)**, Swagger, Postman |
+| **Architecture** | **Microservices**, REST APIs, MVC, Dependency Injection, JWT Auth, Async/Await |
 
 ---
 
 ## 💼 Professional Experience
 
-### 🧑‍💻 **Software Developer — ABCPL (TV9 Bharatvarsh)**  
+### 🧑‍💻 **Software Developer — ABCPL (TV9 Bharatvarsh)**
 **July 2025 – Present**
 
-#### 🔹 News Workflow Information System (NWIS)
-- Built secure & scalable backend using **.NET Web API**
-- Implemented real-time content delivery for a Flutter app
-- Integrated editorial, content creation & workflow modules
-- Added secure authentication, authorization, and error handling
+* **News Workflow Information System (NWIS):**
+    * Designed and built the secure, scalable backend using **.NET Web API**.
+    * Implemented **real-time content delivery** mechanisms for a high-traffic Flutter application.
+* **Election Data Management System:**
+    * Developed a robust full-stack platform for **national and regional election data**.
+    * Optimized backend and database workflows to ensure **data integrity and high availability** during peak election periods.
 
-#### 🔹 Election Data Management System
-- Developed full-stack platform for **national & regional elections**
-- Optimized backend workflows for high-traffic election periods
-- Ensured accuracy, integrity, and high availability of data
-
----
-
-### 🧑‍💻 **Software Developer — Nimbusflow Pvt. Ltd.**  
+### 🧑‍💻 **Software Developer — Nimbusflow Pvt. Ltd.**
 **May 2024 – April 2025**
 
-#### 🔹 Georgian Freight Lines — Transportation Management System (TMS)
-- Worked on **.NET Core + Blazor WebAssembly**
-- Built modules for shipment tracking, load management, automations
-- Optimized PostgreSQL queries & improved UI with responsive design
-
-#### 🔹 Cruze Together — Hybrid Travel Application
-- Developed **scalable REST APIs** using .NET Core
-- Integrated **AWS SQS** for async notifications
-- Implemented secure data access & improved deployment workflows
+* **Georgian Freight Lines (TMS):** Contributed to a Transportation Management System using **.NET Core + Blazor WebAssembly**, focusing on shipment tracking and load optimization.
+* **Cruze Together (Travel App):** Developed **scalable REST APIs** and implemented **AWS SQS** for asynchronous notification processing.
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Activity & Stats
 
-**Bachelor of Engineering, Computer Science**  
-SEA College of Engineering & Technology, Bangalore (2020 – 2024)
-
-**Jawahar Navodaya Vidyalaya**  
-Secondary & Higher Secondary (2017 – 2020)
-
----
-
-## 📜 Certifications & Internships
-- Web Development Internship — **Academor & Techfest**
-- ASP.NET Core Certification — **Great Learning Academy**
-- AI Tools & ChatGPT Power User — **Be10X**
-
----
-
-## 📊 GitHub Stats
+> **Note:** The public `github-readme-stats` service sometimes fails due to API rate limits. If the images below are blank, please check back later or consider the permanent fix (deploying a self-hosted instance).
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=suraj-bhagat504&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj-bhagat504&layout=compact&theme=tokyonight&hide_border=true&cache_bust=2" />
+    <img height="180em" src="https://github-stat-fetcher.vercel.app/api?username=SURAJ-BHAGAT504&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="Suraj's GitHub Stats"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURAJ-BHAGAT504&layout=compact&theme=tokyonight&hide_border=true&cache_bust=2" alt="Suraj's Top Languages"/>
 </p>
-
----
 
 ## 🔥 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SURAJ-BHAGAT504&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SURAJ-BHAGAT504&theme=react-dark&hide_border=true&point=FFFFFF&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 🏆 Badges & Stats
+## 🏆 Badges & Profile
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SURAJ-BHAGAT504&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/SURAJ-BHAGAT504?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=SURAJ-BHAGAT504&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/SURAJ-BHAGAT504?style=for-the-badge&label=Followers&color=success" alt="GitHub Followers" />
 </p>
 
----
+### 📬 Connect With Me
 
-## 📬 Connect With Me
-<p>
-  <a href="mailto:bhagatsuraj504@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/suraj-bhagat-a576b7247/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+| Contact | Link |
+| :--- | :--- |
+| **Email** | [bhagatsuraj504@gmail.com](mailto:bhagatsuraj504@gmail.com) |
+| **LinkedIn** | [linkedin.com/in/suraj-bhagat-a576b7247](https://www.linkedin.com/in/suraj-bhagat-a576b7247/) |
+
+<p align="center">
+    ---
+    ### ✨ Thanks for stopping by! Star a repo if you find something useful! ✨
 </p>
-
----
-
-### 🎉 Thanks for visiting my profile!  
-⭐ **If you like my work, consider starring some repositories!**
