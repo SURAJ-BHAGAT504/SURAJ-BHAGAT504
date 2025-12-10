@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=300&section=header&text=Suraj%20Bhagat&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Software%20Developer&descAlignY=65&descAlign=50" alt="Suraj Bhagat Header" />
 </div>
-
 ---
 
 <div align="center">
@@ -66,14 +65,6 @@
 ---
 
 ## 📊 GitHub Activity & Stats
-
-<div align="center">
-  <a href="https://github.com/SURAJ-BHAGAT504">
-    <img src="https://github-readme-stats.vercel.app/api?username=SURAJ-BHAGAT504&show_icons=true&theme=radical&hide_border=true&bg_color=181818" alt="Suraj's Stats" height="180" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURAJ-BHAGAT504&layout=compact&theme=radical&hide_border=true&bg_color=181818" alt="Top Languages" height="180" />
-  </a>
-</div>
-
 <br>
 
 <div align="center">
