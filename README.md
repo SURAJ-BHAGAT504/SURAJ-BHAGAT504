@@ -85,9 +85,15 @@
 ## 🎓 Education
 
 <div align="center">
-  <img src="https://img.shields.io/badge/B.E.%20Computer%20Science-SEA%20College%20of%20Engineering-blue?style=for-the-badge&logo=bookstack" />
+  <img src="https://img.shields.io/badge/B.E.%20Computer%20Science-Visvesvaraya%20Technological%20University-blue?style=for-the-badge&logo=bookstack" />
   <br>
   <i>2020 – 2024 • Bangalore</i>
+  
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Secondary%20%26%20Higher%20Secondary-Jawahar%20Navodaya%20Vidyalaya-2ea44f?style=for-the-badge&logo=google-classroom&logoColor=white" />
+  <br>
+  <i>2017 – 2020</i>
 </div>
 
 ---
