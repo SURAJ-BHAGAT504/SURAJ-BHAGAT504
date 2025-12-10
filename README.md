@@ -1,6 +1,5 @@
-<!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=30&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Suraj+Bhagat+👋;Fullstack+.NET+Developer;Flutter+%7C+Dart+%7C+.NET+%7C+Web+Developer;Building+Scalable+Enterprise+Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=30&duration=3000&pause=1000&color=007BFF&width=800&lines=Hi%2C+I'm+Suraj+Bhagat+👋;Fullstack+.NET+Developer;Flutter+%7C+Dart+%7C+.NET+%7C+Web+Developer;Building+Scalable+Enterprise+Software" alt="Typing SVG" />
 </p>
 
 ---
@@ -17,7 +16,6 @@ I'm a **Fullstack .NET Developer** with experience building scalable, high-perfo
 - 🤖 Use **AI tools (ChatGPT, Copilot, Gemini)** daily to boost productivity  
 
 📩 **Email:** bhagatsuraj504@gmail.com  
-📱 **Phone:** +91-9366867119  
 🔗 **LinkedIn:** https://www.linkedin.com/in/suraj-bhagat-a576b7247/
 
 ---
@@ -25,7 +23,7 @@ I'm a **Fullstack .NET Developer** with experience building scalable, high-perfo
 ## 🛠️ Tech Stack
 
 ### **Languages**
-C#, JavaScript, SQL, HTML, CSS
+C#, JavaScript, TypeScript, SQL, HTML, CSS
 
 ### **Frameworks**
 ASP.NET Core (6+), Blazor, .NET Web API, Bootstrap
