@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=280&section=header&text=Suraj%20Bhagat&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Fullstack%20.NET%20Developer%20%7C%20Building%20Scalable%20Enterprise%20Software&descAlignY=55&descAlign=50" alt="Suraj Bhagat Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=300&section=header&text=Suraj%20Bhagat&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Software%20Developer&descAlignY=65&descAlign=50" alt="Suraj Bhagat Header" />
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=28&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Hi,+I'm+Suraj+Bhagat+👋;Building+Scalable+Solutions+💻;Fullstack+Software+Developer+🚀" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
@@ -69,8 +73,8 @@
 
 <div align="center">
   <a href="https://github.com/SURAJ-BHAGAT504">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SURAJ-BHAGAT504&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=181818" alt="Suraj's Stats" height="180" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURAJ-BHAGAT504&layout=compact&theme=radical&hide_border=true&bg_color=181818" alt="Top Languages" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=SURAJ-BHAGAT504&show_icons=true&theme=radical&hide_border=true&bg_color=181818" alt="Suraj's Stats" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SURAJ-BHAGAT504&layout=compact&theme=radical&hide_border=true&bg_color=181818" alt="Top Languages" height="180" />
   </a>
 </div>
 
