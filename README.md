@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Fullstack .NET Developer
+## 🚀 Fullstack Software Developer
 
 I'm a **Results-driven Fullstack Developer** with over a year of specialized experience in the **.NET ecosystem**. I focus on designing, developing, and deploying scalable, high-performance, and secure enterprise software for various platforms. I leverage AI-assisted tools daily to enhance productivity and code quality.
 
