@@ -1,41 +1,93 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=30&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Suraj+Bhagat+👋;Software+Developer+%40+TV9+Bharatvarsh;Flutter+%7C+Dart+%7C+.NET+%7C+Web+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=30&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Suraj+Bhagat+👋;Fullstack+.NET+Developer;Flutter+%7C+Dart+%7C+.NET+%7C+Web+Developer;Building+Scalable+Enterprise+Software" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🧑‍💻 Software Developer at **TV9 Bharatvarsh**  
-- 💡 Passionate about **Flutter, Dart, .NET, Web Development**  
-- 🛠️ Building fast & modern apps with great UI/UX  
-- 🤝 Open to collaborating on interesting projects  
-- 📫 Reach me: **surajbhagat504@gmail.com**
+
+I'm a **Fullstack .NET Developer** with experience building scalable, high-performance software for media, logistics, and travel platforms.
+
+### 👨‍💻 Quick Summary
+- 💼 Software Developer at **ABCPL (TV9 Bharatvarsh)**  
+- 💡 1+ year of experience in **.NET Core, Web API, Blazor, CI/CD, Microservices**  
+- 📱 Built real-time systems for **news, election data, transportation & travel apps**  
+- ⚡ Strong in API development, database optimization, authentication, and cloud tools  
+- 🤖 Use **AI tools (ChatGPT, Copilot, Gemini)** daily to boost productivity  
+
+📩 **Email:** bhagatsuraj504@gmail.com  
+📱 **Phone:** +91-9366867119  
+🔗 **LinkedIn:** https://www.linkedin.com/in/suraj-bhagat-a576b7247/
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages & Frameworks**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="55"/>
-</p>
+### **Languages**
+C#, JavaScript, SQL, HTML, CSS
 
-### **Tools & Platforms**
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-</p>
+### **Frameworks**
+ASP.NET Core (6+), Blazor, .NET Web API, Bootstrap
+
+### **Databases**
+PostgreSQL, MS SQL Server
+
+### **DevOps / Tools**
+Git, Docker, CI/CD Pipelines, Azure DevOps (Boards, Repos), Swagger, Postman
+
+### ** Concepts**
+Microservices · REST APIs · MVC · Dependency Injection · JWT Auth · Async/Await · Agile/Scrum
+
+---
+
+## 💼 Professional Experience
+
+### 🧑‍💻 **Software Developer — ABCPL (TV9 Bharatvarsh)**  
+**July 2025 – Present**
+
+#### 🔹 News Workflow Information System (NWIS)
+- Built secure & scalable backend using **.NET Web API**
+- Implemented real-time content delivery for a Flutter app
+- Integrated editorial, content creation & workflow modules
+- Added secure authentication, authorization, and error handling
+
+#### 🔹 Election Data Management System
+- Developed full-stack platform for **national & regional elections**
+- Optimized backend workflows for high-traffic election periods
+- Ensured accuracy, integrity, and high availability of data
+
+---
+
+### 🧑‍💻 **Software Developer — Nimbusflow Pvt. Ltd.**  
+**May 2024 – April 2025**
+
+#### 🔹 Georgian Freight Lines — Transportation Management System (TMS)
+- Worked on **.NET Core + Blazor WebAssembly**
+- Built modules for shipment tracking, load management, automations
+- Optimized PostgreSQL queries & improved UI with responsive design
+
+#### 🔹 Cruze Together — Hybrid Travel Application
+- Developed **scalable REST APIs** using .NET Core
+- Integrated **AWS SQS** for async notifications
+- Implemented secure data access & improved deployment workflows
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering, Computer Science**  
+SEA College of Engineering & Technology, Bangalore (2020 – 2024)
+
+**Jawahar Navodaya Vidyalaya**  
+Secondary & Higher Secondary (2017 – 2020)
+
+---
+
+## 📜 Certifications & Internships
+- Web Development Internship — **Academor & Techfest**
+- ASP.NET Core Certification — **Great Learning Academy**
+- AI Tools & ChatGPT Power User — **Be10X**
 
 ---
 
@@ -55,7 +107,7 @@
 
 ---
 
-## 🏆 Achievements & Badges
+## 🏆 Badges & Stats
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=surajbhagat504&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/surajbhagat504?style=for-the-badge" />
@@ -63,19 +115,12 @@
 
 ---
 
-## 🚧 Current Work
-- 📦 Building modern apps in Flutter + .NET  
-- 📤 Implementing resumable & chunked file upload  
-- 📺 TV9 internal tooling automation  
-
----
-
 ## 📬 Connect With Me
 <p>
-  <a href="mailto:surajbhagat504@gmail.com">
+  <a href="mailto:bhagatsuraj504@gmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/suraj-bhagat-a576b7247/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -83,4 +128,4 @@
 ---
 
 ### 🎉 Thanks for visiting my profile!  
-⭐ **Don’t forget to star repositories you find useful!**
+⭐ **If you like my work, consider starring some repositories!**
